@@ -1,6 +1,6 @@
 ![tata logo](https://github.com/Sambhaji-Dhage/Tata-Data-Visualization-Virtual-Internship-Forge/assets/157734829/8a11b418-2882-4d46-b5ae-302a03af78cc)
 
-# Tata-Data-Visualization-Virtual-Internship-Forge
+# TCS Data Visualization Virtual Internship-Forge
 
 ![tata 2](https://github.com/Sambhaji-Dhage/Tata-Data-Visualization-Virtual-Internship-Forge/assets/157734829/bbac50c0-391f-436f-b904-dbb5673fcce5)
 
